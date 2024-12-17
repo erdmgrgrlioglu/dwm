@@ -5,9 +5,9 @@ dwm is an extremely fast, small, and dynamic window manager for X.
 
 Installed patches
 ------------
-xrdb, vanitygaps, attachbelow, alwayscenter
+xrdb, uselessgaps, attachbelow, alwayscenter, splitstatus, statuscmd
 
 
 Some Minor Changes
 ------------
-custom keybinds
+see config.h (custom keybinds and colors)
